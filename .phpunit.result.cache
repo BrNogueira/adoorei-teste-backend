@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\ApiTest::testListMobiles":4,"Tests\\Feature\\ApiTest::testCreateSale":3},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.005,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.232,"Tests\\Feature\\ApiTest::testListMobiles":0.737,"Tests\\Feature\\ApiTest::testCreateSale":0.055}}
